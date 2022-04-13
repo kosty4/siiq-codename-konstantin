@@ -4,7 +4,7 @@
 
 # General remarks:
 
-### 1. Note that the column "days_since_reg" was not inside the activities.csv, so therefore the calculation of days since registration for each activity
+### Note that the column "days_since_reg" was not inside the activities.csv, so therefore the calculation of days since registration for each activity
 ### will be calculated respective to the date when each user was registered (in the system).
 
 The description of the task was sometimes unclear and had me to do some guess work, especially :
